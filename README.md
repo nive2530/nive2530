@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">"A data fanatic with a deep passion for transforming raw data into impactful insights that drive strategic innovation and decision-making!"</p>
+<p align="left"><b>"A data fanatic with a deep passion for transforming raw data into impactful insights that drive strategic innovation and decision-making!"</b></p>
 
 ###
 
