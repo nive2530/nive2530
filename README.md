@@ -13,7 +13,7 @@
 <p align="left"> 🔭I am a Data & AI Engineer passionate about building intelligent systems that solve real-world problems.
 
 🔍 I work at the intersection of AI, data engineering, and cloud — creating full-stack AI assistants, predictive analytics models, and scalable data pipelines.
-⚙️ Tech I love: Python | SQL | PySpark | GPT | Pinecone | Azure | AWS | Tableau | Power BI
+⚙️ Tech I love: Python | SQL | LLM | LLAMA | GPT | Pinecone | Vector Database | Azure | AWS | Tableau | Power BI | PySpark
 
 💡 Projects include:
 
