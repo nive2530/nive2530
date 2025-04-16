@@ -10,10 +10,11 @@
 
 ###
 
-<p align="left">- 🔭 a Data & AI Engineer passionate about building intelligent systems that solve real-world problems.
+<p align="left">- 🔭I am a Data & AI Engineer passionate about building intelligent systems that solve real-world problems.
 
 🔍 I work at the intersection of AI, data engineering, and cloud — creating full-stack AI assistants, predictive analytics models, and scalable data pipelines.
 ⚙️ Tech I love: Python | SQL | PySpark | GPT | Pinecone | Azure | AWS | Tableau | Power BI
+
 💡 Projects include:
 
 RAG-based AI chatbots using GPT & vector DBs
@@ -25,7 +26,10 @@ Churn prediction, fraud detection, and recommender systems
 Interactive BI dashboards for actionable insights
 
 🚀 Always exploring the next frontier in applied machine intelligence.
-Check out my repos and feel free to connect or collaborate!📫 How to reach me: senthilselvan.n@northeastern.edu | +1 617 206 0530<br>- ⚡ Fun fact: I am a person who is keen about analyzing and solving innovative problems</p>
+
+Check out my repos and feel free to connect or collaborate!
+
+📫 How to reach me: senthilselvan.n@northeastern.edu 
 
 ###
 
