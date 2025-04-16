@@ -10,20 +10,20 @@
 
 ###
 
-<p align="left">- 🔭I am a Data & AI Engineer passionate about building intelligent systems that solve real-world problems.
+<p align="left"> 🔭I am a Data & AI Engineer passionate about building intelligent systems that solve real-world problems.
 
 🔍 I work at the intersection of AI, data engineering, and cloud — creating full-stack AI assistants, predictive analytics models, and scalable data pipelines.
 ⚙️ Tech I love: Python | SQL | PySpark | GPT | Pinecone | Azure | AWS | Tableau | Power BI
 
 💡 Projects include:
 
-RAG-based AI chatbots using GPT & vector DBs
+* RAG-based AI chatbots using GPT & vector DBs
 
-Azure & AWS ETL pipelines for large-scale analytics
+* Azure & AWS ETL pipelines for large-scale analytics
 
-Churn prediction, fraud detection, and recommender systems
+* Churn prediction, fraud detection, and recommender systems
 
-Interactive BI dashboards for actionable insights
+* Interactive BI dashboards for actionable insights
 
 🚀 Always exploring the next frontier in applied machine intelligence.
 
